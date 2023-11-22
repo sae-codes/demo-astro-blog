@@ -52,3 +52,5 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+> [James Q Quick Astro 3.0 Crash Course Video](https://www.youtube.com/watch?v=qBOz6TpYAOg)
